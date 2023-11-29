@@ -18,6 +18,8 @@ redis = "~=4.6.0"
 pydantic = "==1.7"
 
 [dev-packages]
+pytest = "*"
+pytest-asyncio = "*"
 
 [requires]
 python_version = "3.11"
